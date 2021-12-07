@@ -53,7 +53,12 @@ header {
   color: #fff;
   border: none;
   border-radius: 10px;
-  background-image: linear-gradient(to right, #E44033, #E55949, #E44033);
+  background-image: linear-gradient(to right, #e44033, #e55949, #e44033);
+}
+
+.main-header button:hover{
+    background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37);
+    cursor: pointer;
 }
 
 main {
@@ -94,12 +99,17 @@ main .left-section {
 }
 
 .left-section button {
-margin-top: 20px;
+  margin-top: 20px;
   padding: 15px 45px;
   text-align: center;
   font-size: 14px;
   color: #fff;
   border: none;
   border-radius: 10px;
-  background-image: linear-gradient(to right, #E44033, #E55949, #E44033);
+  background-image: linear-gradient(to right, #e44033, #e55949, #e44033);
+}
+
+.left-section button:hover {
+  background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37);
+  cursor: pointer;
 }
