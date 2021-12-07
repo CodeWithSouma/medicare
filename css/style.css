@@ -41,7 +41,9 @@ header {
   font-weight: 400;
   font-size: medium;
 }
-
+.main-header nav a:hover {
+    color: #412C29;
+}
 .menu-btn {
   margin-right: 60px;
 }
