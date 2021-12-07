@@ -57,7 +57,8 @@ header {
 }
 
 .main-header button:hover{
-    background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37);
+    /* background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37); */
+    background-image: linear-gradient(to right, #4A9EE2, #65B6F8, #4A9EE2);
     cursor: pointer;
 }
 
@@ -110,6 +111,7 @@ main .left-section {
 }
 
 .left-section button:hover {
-  background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37);
+  /* background-image: linear-gradient(to right, #8DBB37, #97CA41, #8DBB37); */
+  background-image: linear-gradient(to right, #4A9EE2, #65B6F8, #4A9EE2);
   cursor: pointer;
 }
